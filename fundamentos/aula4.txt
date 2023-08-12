@@ -1,0 +1,31 @@
+Leis da Programação
+
+1º Entender o Problema
+2º Pensar sempre no usuário (UX)
+    Canal do YT: Felipe Dechamps
+3º Código Limpo
+
+Dica de Livro: Código Limpo
+
+-------------------------------------------
+NPM -> Gerenciador de Pacotes Node
+Instalação do NPM :
+npm init    (Preencher as perguntas a seguir)
+Ele vai gerar o arquivo package.json
+npm ls      (Lista os pacotes/módulos instalados)
+npm i nome_do_pacote (Instala os pacotes)
+
+Repositório: npmjs.com
+-------------------------------------------
+Instalação do Readline-sync para Input(Entrada de dados) via Console:
+npm i readline-sync
+
+Para usar o Recurso/Pacote read-line sync:
+
+Passo 1 - Importar
+const read = require('readline-sync')
+
+Passo 2 - Nome_da_variavel = read.question('Texto qualquer')
+Passo 3 - Nome_da_variavel = Number(read.question("Texto qualquer"))
+
+Obs: Number() - Converte uma String em Número
