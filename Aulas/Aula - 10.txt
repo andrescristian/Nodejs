@@ -1,0 +1,32 @@
+Mandamentos da Programação - by José de Assis
+
+1º Mandamento - Entender o Problema
+
+2º Mandamento - Pensar na UX(Experiência do Usuário)
+
+3º Mandamento - Clean Code 
+- Usar o Mínimo de Recursos Possíveis
+
+*Dica: Alinhar tudo com: Alt + Shift + F 
+
+_______________________________________________________________
+Exercício:
+Desenvolver no Scratch e no JavaScript um App que informe qual é o combústivel mais vantajoso (etanol vs gasolina) para abastecer um carro Flex
+
+Informação: O Etanol vale a pena quando custar até 70% do valor da gasolina
+
+//Variáveis
+etanol, gasolina (Numéricas)
+//Entrada
+etanol, gasolina
+//processamento/saida
+Se o preço do litro do etanol custar até 70% do preço do litro da gasolina abastecer com etanol
+abastecer com Etanol
+senão
+Abastecer com gasolina
+
+if(etanol< 0.7 * gasolina){
+    //Abastecer com etanol
+} else {
+    //Abastecer com gasolina
+}

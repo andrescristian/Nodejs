@@ -1,0 +1,35 @@
+Links:
+http://www.rleonardi.com/interactive-resume/
+https://youtu.be/ML1fgVfxuRU
+
+
+Desenvolvimento de sistemas
+
+- Lógica de programação (31 aulas) - UC 9
+
+Java Script
+
+Atividades/desfios/portfólio de projetos
+
+- Browser (navegador) - front-end
+- Servidor (banco de dados) - back-end
+- Full Stack (front-end + back-end)
+- UX (User Experience) "Experiência do usuário"
+- UI (User Interface) "Interface gráfica"
+Em resumo, UX é sobre criar coisas que sejam agradáveis, fáceis de usar e que atendam às necessidades das pessoas, proporcionando uma experiência positiva ao usuário. (chatgpt)
+
+______________________________________________________________________
+Preparação do ambiente de desenvolvimento:
+
+node.js (plataforma que permite executar o javascript fora do navegador)
+https://nodejs.org/en
+
+
+Visual Studio Code (editor de código)
+
+
+
+
+
+
+

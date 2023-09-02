@@ -1,0 +1,28 @@
+Pacotes/Módulo
+
+npm -> Gerenciador de Pacotes
+- package.json (Principal Arquivo de Configuração)
+
+npm init                --> Inicia um novo package.json
+npm ls                  --> Faz listagem dos pacotes instalados
+npm i OU npm install    --> Instala um novo pacote
+_______________________________________________________________
+Comandos do Terminal
+
+cd      --> Acessa um Diretório
+cd ..   --> Volta um Nível de Diretório/Arquivo 
+_______________________________________________________________
+Estruturas de Controle
+
+- Condicionais
+if (Condição){
+    //Condição Verdadeira
+}
+
+if (Condição){
+    //Condição Verdadeira
+}else{
+    //Condição Falsa
+}
+
+*Obs: Uma Condição NUNCA pode ser Verdadeira e Falsa ao mesmo tempo

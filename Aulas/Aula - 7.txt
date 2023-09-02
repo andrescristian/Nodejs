@@ -1,0 +1,10 @@
+Github
+Linguagem de Marcação: Markdown
+#       -> É pra Título
+##      -> É pra Subtítulo
+![]()   -> Inserir Imagem   [EscreverNomeDaPasta]   (EscreverLinkDaImagem)
+[]()    -> Inserir Link
+-       -> Bullets (Separa en diferentes linhas)
+
+*Dica: Link dos Selos de Metadados
+https://shields.io/
