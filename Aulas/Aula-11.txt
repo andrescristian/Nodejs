@@ -1,0 +1,23 @@
+Desenvolvimento de simuladores lógicos com o Scratch
+- And (&)
+- Or  (||)
+- Not (!)
+
+1º And (&) - Operador de Conjunção
+-> Retorna o Valor Booleano "true" se os dois operandos forem "true"
+true  && true   -->  Retorna "true"
+true  && false  -->  Retorna "false"
+false && true   -->  Retorna "false"
+false && false  -->  Retorna "false"
+
+2º Or (||) - Operador de Disjunção
+-> Retorna o Valor Booleano "true" se um dos operando for "true"
+true  || true   -->  Retorna "true"
+true  || false  -->  Retorna "true"
+false || true   -->  Retorna "true"
+false || false  -->  Retorna "false"
+
+3º Not (!) - Operador de Negação
+-> Inverte o Valor Booleano do resultado original
+Se a expressão resultar "true"  -->  Retorna "false"
+Se a expressão resultar "false" -->  Retorna "true"

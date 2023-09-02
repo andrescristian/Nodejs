@@ -1,4 +1,0 @@
-Desenvolvimento de simuladores lógicos com o Scratch
-- And (&)
-- Or  (||)
-- Not (!)
