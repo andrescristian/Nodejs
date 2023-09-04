@@ -11,9 +11,7 @@ nome = "Andres"
 idade = 19
 vip = true
 
-console.clear
-
-
+console.clear()
 console.log(nome)
 console.log(idade)
 console.log(pi)
