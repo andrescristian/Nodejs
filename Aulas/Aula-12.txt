@@ -2,3 +2,5 @@ Desenvolver no Scratch e no Node, uma calculadora determinada pelo professor, de
 Entrega:
 Scratch    --> O link deve estar no Github
 Node       --> Correção do professor
+
+Exercício 4 -> Calcular a Conversão de Km/h para M/s
