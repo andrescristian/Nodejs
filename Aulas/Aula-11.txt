@@ -11,7 +11,7 @@ false && true   -->  Retorna "false"
 false && false  -->  Retorna "false"
 
 2º Or (||) - Operador de Disjunção
--> Retorna o Valor Booleano "true" se um dos operando for "true"
+-> Retorna o Valor Booleano "true" se um dos operandos for "true"
 true  || true   -->  Retorna "true"
 true  || false  -->  Retorna "true"
 false || true   -->  Retorna "true"
