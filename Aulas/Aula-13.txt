@@ -1,0 +1,65 @@
+Correção de Exercícios
+
+Exercício 1 -> Calcular a quantidade de tijolos por metro quadrado (tijolo baiano 8 furos)
+
+1 Tijolo Baiano = 0,0361 m2
+
+//Variáveis                   //Processamento
+m2, total (Numéricas)         total = m2 / 0,0361
+
+//Entrada                     //Saída
+total                         m2  
+
+Exercício 2 -> Calcular a Área e o Perímetro de um retângulo
+
+   Área   = Base x Altura
+Perímetro = 2(Base x Altura)
+
+//Variáveis
+area, base, altura, perimetro (Numéricas)
+
+//Entrada
+base, altura
+
+// 1º Processamento          // 2º Processamento
+area = base * altura         perimetro = base + altura + base + altura
+
+// 1º Saída                  // 2º Saída
+area                         perimetro
+_________________________________________________________________
+Estruturas de Controle Condicional
+Encadeamento/Aninhamento com "if" e "else"
+
+if(Condição){                   if(Condição){
+    //Condição Verdadeira       //Condição Verdadeira
+}else{                          }
+    //Condição Falsa
+}
+
+Condições Aninhadas:
+--> Pode ser executada desta forma:
+if(Condição 1){
+    //Condição 1 Verdadeira
+}else{
+    if(Condição 2){
+    //Condição 2 Verdadeira
+} else {
+    //Condição 2 Falsa
+}
+
+--> Ou desta forma:
+if(Condição 1){
+    //Condição 1 Verdadeira
+}else if(Condição 2){
+    //Condição 2 Verdadeira
+    } else {
+        //Nenhuma Condição Anterior Verdadeira
+    }
+
+Exercício: Desenvolver no Scratch e no NodeJS um aplicativo que informe a obrigatoriedade de votar em função da idade, sabendo que no Brasil:
+- Abaixo de 16 anos o voto é proibido 
+- Com 16, 17 ou acima de 70, o voto é facultativo 
+- Entre 18 e 70 (incluindo o 18 e o 70) o voto é obrigatório
+
+//Variáveis             //Processamento e Saída                 
+idade                   Encadeamento if - else
