@@ -1,0 +1,37 @@
+Estruturas de Controle:
+1º if           --> Condição Simples
+2º if else      --> Condição Composta
+3º else if      --> Estrutura Condicional Aninhada
+4º switch case  --> Estrutura Condicional Switch
+
+switch case (Opções)
+//Uso com Variáveis do tipo Números Inteiros
+
+let variavel
+
+switch(variavel){
+    case 1:
+    //O código será executado caso o valor da Variável seja 1
+    break
+
+    case 2:
+    //O código será executado caso o valor da Variável seja 2
+    break
+
+    default:
+    //O código será executado caso nenhum valor seja encontrado
+    break
+}
+_______________________________________________________________
+Gerar Números Aleatórios no JavaScript
+Math ()     --> Recurso para funções matemáticas
+Math.PI     --> Mostra o valor do PI(3,14) 
+Math.floor  --> Arredonda para um número inteiro
+Math.random --> Gera um número aleatório de 0 a 9
+Math.sqrt   --> Calcula a raíz quadrada de um número
+
+Exemplo:
+Math.floor(Math.random() *60)
+//Sorteia qualquer número entre 0 a 59
+
+ 
