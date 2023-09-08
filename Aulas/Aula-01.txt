@@ -1,35 +1,25 @@
-Links:
-http://www.rleonardi.com/interactive-resume/
-https://youtu.be/ML1fgVfxuRU
-
-
 Desenvolvimento de sistemas
+-  Lógica de programação (31 aulas) - UC 9
+-  Linguagem de Programação:
+    - JavaScript  ->  Ela foca nas Interações: Menus, animações, popups e validações
+-  Atividades/desafios/portfólio de projetos
 
-- Lógica de programação (31 aulas) - UC 9
-
-Java Script
-
-Atividades/desfios/portfólio de projetos
-
+-> Termos na Programação:
 - Browser (navegador) - front-end
 - Servidor (banco de dados) - back-end
 - Full Stack (front-end + back-end)
-- UX (User Experience) "Experiência do usuário"
-- UI (User Interface) "Interface gráfica"
+- UX (User Experience)  -->  Experiência do usuário
+- UI (User Interface)   -->  Interface gráfica
 Em resumo, UX é sobre criar coisas que sejam agradáveis, fáceis de usar e que atendam às necessidades das pessoas, proporcionando uma experiência positiva ao usuário. (chatgpt)
 
-______________________________________________________________________
-Preparação do ambiente de desenvolvimento:
+->  Preparação do ambiente de desenvolvimento:
 
-node.js (plataforma que permite executar o javascript fora do navegador)
-https://nodejs.org/en
+1º Node.js  -->  Plataforma que permite executar o Javascript fora do navegador
+Link para o Download: https://nodejs.org/en
 
+2º VScode   --> Editor de código
+Link para o Download: https://code.visualstudio.com/download
 
-Visual Studio Code (editor de código)
-
-
-
-
-
-
-
+Links Complementares:
+http://www.rleonardi.com/interactive-resume/
+https://youtu.be/ML1fgVfxuRU
