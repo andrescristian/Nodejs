@@ -2,9 +2,7 @@ Algoritmos ("Receita de bolo")
 Exemplo: Criar um app para calcular a média de duas notas
 
 Como calcular a média
-          nota1 + nota2
-    média:_______________
-                 2          
+Média = (Nota1 + Nota2) / 2    
 
 //Variáveis:
 3 -> Numéricas(nota1, nota2 e media)
@@ -25,4 +23,3 @@ console.log(`Texto ${Variável}`)
 
 Imagem ASCII: http://www.network-science.de/ascii/
 ASCII Generator (Gerador de texto e imagens)
-
