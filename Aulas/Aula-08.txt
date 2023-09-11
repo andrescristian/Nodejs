@@ -1,5 +1,4 @@
-Atividade de Avaliação Individual
-(Entrega pelo Github)
+Atividade de Avaliação Individual (Entrega pelo Github)
 
 1º Criar um repositório no Github e hospedar todos os projetos feitos no Scratch (7 Projetos)
 
@@ -23,20 +22,14 @@ Hora técnica = 50,00
 //Variáveis
 remuneracao, custo, horasMes, horaTecnica(Numérica), estimativa, total
 
-//Entrada 1
+//Entrada
 remuneracao, custo, horasMes, estimativa
 
-//Processamento 1
+//Processamento
 horaTecnica = (remuneracao + (remuneracao * 0.3)) + custo + (remuneracao * 0.2) ) / horasMes
 
-//Saída 1
+//Saída
 horaTecnica
 
-//Entrada 2
-estimativa
-
-//Processamento 2
-total = horaTecnica * estimativa
-
-//Saída 2
-total 
+//2º Entrada              //2º Processamento                        //2º Saída
+estimativa                total = horaTecnica * estimativa          total 
