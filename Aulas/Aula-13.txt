@@ -30,9 +30,9 @@ _________________________________________________________________
 Estruturas de Controle Condicional
 Encadeamento/Aninhamento com "if" e "else"
 
-if(Condição){                   if(Condição){
-    //Condição Verdadeira       //Condição Verdadeira
-}else{                          }
+if (Condição) {                   if(Condição){
+    //Condição Verdadeira         //Condição Verdadeira
+}else{                            }
     //Condição Falsa
 }
 
@@ -40,7 +40,7 @@ Condições Aninhadas:
 --> Pode ser executada desta forma:
 if(Condição 1){
     //Condição 1 Verdadeira
-}else{
+} else {
     if(Condição 2){
     //Condição 2 Verdadeira
 } else {
