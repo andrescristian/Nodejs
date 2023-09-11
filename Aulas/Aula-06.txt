@@ -30,18 +30,12 @@ _____________________________
         (Desconto*Valor) / 100
 
 //Saída
-Total
+total
 
-entrada 2
-Dinheiro
+//2º Entrada              //2º Processamento                 //2º Saída
+dinheiro                  troco = dinheiro - total           troco
 
-//Processamento 2
-troco = dinheiro - total
-
-//Saída 2
-Troco
-
-Comando:
+- Comando:
 .replace("") --> Substitui um caractere por outro !
 
 Exemplos:
@@ -50,4 +44,3 @@ Exemplos:
 .replace("não","n")
 .replace("sim","s")//Afirmação
 .replace(",",".") //Substituir a vírgula pelo ponto
- 
