@@ -24,14 +24,12 @@ switch(variavel){
 }
 _______________________________________________________________
 Gerar Números Aleatórios no JavaScript
-Math ()     --> Recurso para funções matemáticas
-Math.PI     --> Mostra o valor do PI(3,14) 
-Math.floor  --> Arredonda para um número inteiro
-Math.random --> Gera um número aleatório de 0 a 9
-Math.sqrt   --> Calcula a raíz quadrada de um número
+Math()        --> Recurso para funções matemáticas
+Math.PI()     --> Mostra o valor do PI(3,14) 
+Math.floor()  --> Arredonda para um número inteiro
+Math.random() --> Gera um número aleatório de 0 a 9
+Math.sqrt()   --> Calcula a raíz quadrada de um número
 
 Exemplo:
 Math.floor(Math.random() *60)
-//Sorteia qualquer número entre 0 a 59
-
- 
+//Sorteia qualquer número entre 0 a 59 
