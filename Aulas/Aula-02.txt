@@ -15,17 +15,16 @@ Variáveis
 - const(Cria uma Constante no JS)
 
 Tipos de Variáveis/Constantes
-1º Numéricas(Reais e Inteiros)
-2º String(String de caracteres)
-3º Booleano(Mostra se um valor é Verdadeiro ou Falso)
+1º Numéricas    Reais e Inteiros)
+2º String       String de caracteres
+3º Booleano     Mostra se um valor é Verdadeiro ou Falso(true/false)
 
 Comandos
-- console.log   (Exibe na tela)
-- console.clear (Limpa tela)
-- typeof (Mostra o Tipo de Variável)
+- console.log      Exibe na tela
+- console.clear    Limpa tela
+- typeof           Mostra o "Tipo de Variável"(String, Numérico, ...)
 
-IMPORTANTE!!!
-- Quando definir o nome da Variável/Constante:
+- Regras para definir o "Nome da Variável"(Identificador):
 1º Não usar espaço
 2º Não usar acentos e caracteres especiais
 3º Não usar letras minúsculas
