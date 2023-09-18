@@ -1,14 +1,11 @@
 Mandamentos da Programação - by José de Assis
 
 1º Mandamento - Entender o Problema
-
 2º Mandamento - Pensar na UX(Experiência do Usuário)
-
 3º Mandamento - Clean Code 
 - Usar o Mínimo de Recursos Possíveis
 
-*Dica: Alinhar tudo com: Alt + Shift + F 
-
+*Dica: Alinhe o código no VScode com: Alt + Shift + F 
 _______________________________________________________________
 Exercício:
 Desenvolver no Scratch e no JavaScript um App que informe qual é o combústivel mais vantajoso (etanol vs gasolina) para abastecer um carro Flex
