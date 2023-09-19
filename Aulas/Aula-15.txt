@@ -1,0 +1,25 @@
+Estruturas de Controle - Laços de Repetições
+
+1º - Laço "for"  --> Nº Determinado de Repetições
+- É a única estrutura que permite criar internamente uma Variável do Tipo Numérico INTEIRO
+- Sua estrutura é: (Início; Condição; Incremento/Decremento)
+- O laço é REPETIDO enquanto a Condição for VERDADEIRA
+- Quando a Condição for FALSA, o laço será parado
+
+Exemplo:
+
+for (let i = 1; i < 10; i++){
+
+}
+
+2º - Aninhamento do Laço "for"
+- Criando um laço "for" dentro de outro laço "for"
+ for() {
+    for(){
+
+    }
+ }
+
+*Observações:
+a) Usar nomes diferentes de Variáveis Internas
+b) O Incremento ou Decremento do laço principal só é executado após a finalização do laço for interno
