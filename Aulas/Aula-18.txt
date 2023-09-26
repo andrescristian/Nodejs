@@ -1,0 +1,41 @@
+Funções
+- Função é um bloco de código reutilizável
+- Para executar uma Função, basta escrever o "Nome da Função" junto com Parênteses
+- Uma função pode ser executada do documento HTML
+- Para Linkar o HTML com o JavaScript, há duas opções:
+
+1º Do JavaScript para o HTML(No "body"), basta usar a Tag:
+<script>    </script>
+
+2º Do HTML para o JavaScript, link para um documento (Recomendado)
+<script src="NomeDoArquivo.js"></script>
+
+- Tipos de Funções:
+Função Simples
+Função Atribuída
+Função Atribuída Simplificada (arrow function)
+
+1º Função Simples
+
+function hello(){
+    console.log("Hello function")
+}
+hello()
+
+
+2º Função Atribuída
+- Executa e Armazena uma função
+const hello2 = function () {
+    console.log("Hello function atribuída")
+}
+hello2()
+
+
+Função Atribuída Simplificada (arrow function)
+- É a mesma coisa que a Função acima
+- É uma forma moderna de escrita do JavaScript 
+- A "flecha"(=>) substitui a palavra "function"
+const hello3 = () => {
+    console.log("Hello arrow function")
+}
+hello3()
