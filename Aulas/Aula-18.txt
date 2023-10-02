@@ -16,12 +16,10 @@ Função Atribuída
 Função Atribuída Simplificada (arrow function)
 
 1º Função Simples
-
 function hello(){
     console.log("Hello function")
 }
 hello()
-
 
 2º Função Atribuída
 - Executa e Armazena uma função
@@ -30,8 +28,7 @@ const hello2 = function () {
 }
 hello2()
 
-
-Função Atribuída Simplificada (arrow function)
+3º Função Atribuída Simplificada (arrow function)
 - É a mesma coisa que a Função acima
 - É uma forma moderna de escrita do JavaScript 
 - A "flecha"(=>) substitui a palavra "function"
