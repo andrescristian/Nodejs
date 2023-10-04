@@ -9,15 +9,15 @@ Pilares:
 1º Abstração
 -> Classe Modelo que cria "Objetos" (Atributos e Métodos)
 -> Classe Modelo é uma function
-- Para criar uma Classe no JavaScript, usar a palavra "class"
-- Atributos também deve ter chaves
--> "constructor" dentro da Classe Modelo cria "Atributos"
+  - Para criar uma Classe no JavaScript, usar a palavra "class"
+  - Atributos também deve ter chaves
+-> "constructor" (dentro da Classe Modelo) cria "Atributos"
 -> "new" Cria Objetos
 -> "this" Cria uma nova Variável
 
 2º Herança
 -> Extende(Reutiliza) atributos e métodos da Classe Principal, ou seja, pega todas as informações da "Abstração"
-- "extends" Cria Herança
+  - "extends" Cria Herança. Vai usar os mesmos Atributos e Métodos de uma Classe
 
 3º Polimorfismo
 -> Muda o comportamento de um "Método" que existe na Classe Principal
