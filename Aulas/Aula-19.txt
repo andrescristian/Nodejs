@@ -4,7 +4,7 @@ Pilares:
 1º Abstração
 2º Herança
 3º Polimorfismo
-4º Encapsulamento
+4º Encapsulamento (Segurança)
 
 1º Abstração
 -> Classe Modelo que cria "Objetos" (Atributos e Métodos)
@@ -14,6 +14,7 @@ Pilares:
 -> "constructor" (dentro da Classe Modelo) cria "Atributos"
 -> "new" Cria Objetos
 -> "this" Cria uma nova Variável
+-> Método é uma "function"
 
 2º Herança
 -> Extende(Reutiliza) atributos e métodos da Classe Principal, ou seja, pega todas as informações da "Abstração"
