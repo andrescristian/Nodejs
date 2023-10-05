@@ -31,12 +31,12 @@ class bloco {
 //Classe modelo com Herança(extends)
 //"bloco" e "enxada" são Classes Modelos
 class Enxada extends bloco {
-    //Atributos -> Resistencia e textura estou reutilizando. "conquista" é novo
+    //"resistencia" e "textura" são Atributos Reutilizados da 1º Classe "bloco". O Atributo "conquista" foi adicionado
     constructor(resistencia, textura, conquista) {
         super(resistencia, textura)//"super" é a "Classe Pai(o bloco la de cima)"
         this.conquista = conquista
-
     }
+    
     //Métodos
     criarEnxada() {
         console.log("-------------")
@@ -60,8 +60,6 @@ class Enxada extends bloco {
     }
 
 }
-
-
 
 //Criação de Objetos (Mundo Minecraft)
 console.clear()
@@ -106,4 +104,3 @@ enxada2.arar()
 const enxada3 = new Enxada(10, "diamante", false)
 enxada3.criarEnxada()
 enxada3.minerar()
-
