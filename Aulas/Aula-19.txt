@@ -13,12 +13,20 @@ Pilares:
   - Atributos também deve ter chaves
 -> "constructor" (dentro da Classe Modelo) cria "Atributos"
 -> "new" Cria Objetos
--> "this" Cria uma nova Variável
+-> "this" Cria uma Variável Pública
 -> Método é uma "function"
 
 2º Herança
 -> Extende(Reutiliza) atributos e métodos da Classe Principal, ou seja, pega todas as informações da "Abstração"
-  - "extends" Cria Herança. Vai usar os mesmos Atributos e Métodos de uma Classe
+"extends" Cria Herança. Vai usar os mesmos Atributos e Métodos de uma Classe qualquer
 
 3º Polimorfismo
 -> Muda o comportamento de um "Método" que existe na Classe Principal
+
+4º Encapsulamento
+-> Protege o acesso às Variáveis, faz Segurança
+-> Os Atributos (Variáveis) são privados
+-> Pra acessar as Variaveis, devem ser usados os Métodos Específicos
+-> Os Métodos Específicos são o "get" e "set"
+    get = Obtém    --> Usar esta opção dentro do Método
+    set = Atribui  --> Usar esta opção para criar Objetos 
