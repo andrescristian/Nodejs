@@ -4,9 +4,10 @@ Programação Orientada a Objetos - Agência Bancária
 Os Desafios são(Usar o arquivo Banco.js):
 1º Encapsular os Atributos da Classe Conta
 2º Criar mais 2 Objetos (Clientes - Robson Vaamonde e Sirlene Aparecida)
-3º Criar um novo método para transferência de Valores entre Contas Corrente, e também transferência entre Conta Corrente e Conta Poupança
-4º Melhorar a UX(User eXperience)
+3º Criar um novo Método chamado "pix" para transferência de Valores entre Contas Corrente
+4º Criar um novo Método para transferir da Conta Corrente para a Conta Poupança
+5º Melhorar a UX(User eXperience)
 
 Exemplo:
-- O Leandro transfere para Sirlene
+- O Leandro faz o Pix para Sirlene
 - o Robson transfere para o Robson(Poupança)
