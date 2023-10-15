@@ -9,5 +9,5 @@ Os Desafios são(Usar o arquivo Banco.js):
 5º Melhorar a UX(User eXperience)
 
 Exemplo:
-- O Leandro faz o Pix para Sirlene
+- O Leandro faz o Pix para a Sirlene
 - o Robson transfere para o Robson(Poupança)
