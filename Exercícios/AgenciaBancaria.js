@@ -20,7 +20,7 @@ class Conta {
     constructor(numero, nome, saldoCorrente) {
         let _numero = numero
         let _nome = nome
-        this.saldoCorrente = saldoCorrente
+        let _saldoCorrente = saldoCorrente
 
         this.getNumero = () => {
             return _numero
