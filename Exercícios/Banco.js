@@ -30,7 +30,6 @@ class Conta {
             console.log("Saque não permitido")
         }
     }
-
 }
 
 class ContaPoupanca extends Conta{
