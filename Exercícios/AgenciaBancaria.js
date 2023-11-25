@@ -1,7 +1,7 @@
 /**
  * Exercício de Fixação - P.O.O
  */
-const read = require('readline-sync')//12 saldoCorrente
+const read = require('readline-sync')
 const colors = require('colors')
 
 console.clear()
