@@ -6,11 +6,11 @@
 //Funções Atribuídas e "arrow function" precisam ser declaradas do início do código
 
 // Sintaxe Comum
-//Parametro é uma variavel
+//Parâmetro é uma Variável
 function somar(num1, num2) {
     return (console.log(num1 + num2))
 }
-//Para executar a Função, devemos passar 2 valores
+//Para executar a Função, devemos passar 2 valores nos Parâmetros
 somar(2, 5)
 
 //Função Atribuída
