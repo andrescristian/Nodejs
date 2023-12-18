@@ -1,6 +1,6 @@
 POO - Programação Orientada a Objetos
 
-Pilares:
+Existem 4 Pilares da POO:
 1º Abstração
 2º Herança
 3º Polimorfismo
@@ -26,7 +26,7 @@ Pilares:
 4º Encapsulamento
 -> Protege o acesso às Variáveis, faz Segurança
 -> Os Atributos (Variáveis) são privados
--> Pra acessar as Variaveis, devem ser usados os Métodos Específicos
+-> Pra acessar as Variáveis, devem ser usados os Métodos Específicos
 -> Os Métodos Específicos são o "get" e "set"
     get = Obtém    --> Usar esta opção dentro do Método
     set = Atribui  --> Usar esta opção para criar Objetos 
