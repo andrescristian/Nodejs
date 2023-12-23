@@ -2,7 +2,7 @@ Estruturas de Controle - Laços de Repetições
 
 1º - Laço "for"  --> Nº Determinado de Repetições
 - É a única estrutura que permite criar internamente uma Variável do Tipo Numérico INTEIRO
-- Sua estrutura é: (Início; Condição; Incremento/Decremento)
+- Sua estrutura é: (Variável; Condição; Incremento/Decremento)
 - O laço é REPETIDO enquanto a Condição for VERDADEIRA
 - Quando a Condição for FALSA, o laço será parado
 
