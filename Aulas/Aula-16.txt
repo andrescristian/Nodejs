@@ -7,6 +7,6 @@ while (Condição) {
 }
 
 do {
-    //Sempre executa o código 1 vez independente da "Condição"
+    //Sempre executa o código 1 vez, independente da "Condição"
     //Depois analisa a Condição (semelhante a estrutura while)
 } while (Condição)
