@@ -1,4 +1,4 @@
-Atividade Avaliatória
+Atividade Avaliatória - Scratch
 Entrega no Github - 22/09
 Continuar o jogo "Space Invaders"
 
