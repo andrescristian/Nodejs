@@ -47,7 +47,7 @@ const funcionario3 = {
     cargo: "Mordomo",
     email: "alfred@email.com",
     salario: 20000,
-    ...endereco1 //... é o spread operator (Faz a união de Duas Estruturas). Equivalente ao INNER JOIN -> MySQL
+    ...endereco1 //... é o Spread Operator (Faz a união de Duas Estruturas). Equivalente ao INNER JOIN -> MySQL
 }
 
 console.log(funcionario3)
