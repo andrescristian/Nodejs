@@ -1,6 +1,6 @@
 /**
- * Validação de cpf
- * @author Professor José de Assis
+ * Validação de CPF
+ * @author Andres
  */
 
 const read = require('readline-sync')
