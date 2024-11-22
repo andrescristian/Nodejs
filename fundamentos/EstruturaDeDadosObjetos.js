@@ -86,4 +86,3 @@ console.log(funcionario5.armadura.versao)
 
 //Executando/chamando uma Função
 funcionario5.suitUP()
-
